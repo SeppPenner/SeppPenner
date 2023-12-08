@@ -119,12 +119,10 @@ I like cookies 🍪🍪🍪🍪. All repos now on https://gitlab.com/SeppPenner/
     </tr>
 </table>
 
-## Snake
+## Snake 🐍
 
 <!-- Snake --> 
-<p align="center">    
-    <a href="https://gitstar-ranking.com/SeppPenner" title="Snake 🐍"><img width="900" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
-</p>
+![snake animation](https://github.com/SeppPenner/SeppPenner/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- Footer -->
 <p align="center">  
