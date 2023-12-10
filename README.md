@@ -5,10 +5,19 @@ I like cookies 🍪🍪🍪🍪. All repos now on https://gitlab.com/SeppPenner/
 <!--Animation-->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+## Connect with me
+<!--Connect with me-->
+
+<!--Todo: Fix once badges for gitter work again?!-->
+<!--[![Gitter](https://badges.gitter.im/SparkplugNet/community.svg)](https://gitter.im/SparkplugNet/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)-->
+[![Blogger](https://img.shields.io/badge/Follow_me_on-blogger-orange)](https://franzhuber23.blogspot.de/)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/SeppPennerOpenSourceDevelopment)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/th070795)
+
 ## Github statistics
 
 <!--Github statistics-->
-![SeppPenner's Github statistics](https://github-readme-stats.vercel.app/api?username=SeppPenner&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![SeppPenner's Github statistics](https://github-readme-stats.vercel.app/api?username=SeppPenner&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](http://www.github.com/SeppPenner)
 
 ## Contributions
 
