@@ -8,7 +8,7 @@ I like cookies 🍪🍪🍪🍪. All repos now on https://gitlab.com/SeppPenner/
 ## Github statistics
 
 <!--Github statistics-->
-[![SeppPenner's Github statistics](https://github-readme-stats.vercel.app/api?username=SeppPenner&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
+![SeppPenner's Github statistics](https://github-readme-stats.vercel.app/api?username=SeppPenner&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Contributions
 
