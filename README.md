@@ -1,4 +1,4 @@
-I like cookies 🍪🍪🍪🍪. All repos now on https://gitlab.com/SeppPenner/, too. Repositories are synced. Stay with Ukraine 🇺🇦.
+I like cookies 🍪🍪🍪🍪. All repos now on https://gitlab.com/SeppPenner/, too. Repositories are synced. Stay with Ukraine 🇺🇦 and Israel 🇮🇱.
 
 ## Animation
 
